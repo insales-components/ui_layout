@@ -1,0 +1,15 @@
+{
+  "name": "ui-layout",
+  "version": "1.0.0",
+  "description": "Стили лэйаута",
+  "author": "LiquidHub.ru",
+  "type": "snippets",
+  "homepage": "https://github.com/insales-components/ui-layout",
+  "props": {
+    "common": false,
+    "liquid": false
+  },
+  "dependencies": {
+    "scss_variables": "https://github.com/insales-components/scss_variables"
+  }
+}
